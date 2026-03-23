@@ -8,7 +8,7 @@ const router = [
   {
     name: 'About',
     path: '/about',
-    navigation: true,
+    navigation: false,
     children: [
       {
         name: 'Meet Dr. Tyska',
@@ -23,12 +23,12 @@ const router = [
   {
     name: 'Get Started',
     path: '/get-started',
-    navigation: true
+    navigation: false
   },
   {
     name: 'Treatments',
     path: '/treatments',
-    navigation: true,
+    navigation: false,
     children: [
       {
         name: 'Early/interceptive treatment for children',
@@ -63,12 +63,12 @@ const router = [
   {
     name: 'Contact',
     path: '/contact',
-    navigation: true
+    navigation: false
   },
   {
     name: 'FAQ',
     path: '/faq',
-    navigation: true
+    navigation: false
   }
 ]
 
