@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#e2e8f0"/>
+  <!-- Head -->
+  <circle cx="300" cy="210" r="95" fill="#94a3b8"/>
+  <!-- Neck -->
+  <rect x="270" y="295" width="60" height="50" rx="10" fill="#94a3b8"/>
+  <!-- Body / shoulders (male: broad, square shoulders) -->
+  <path d="M115,600 L115,460 C115,390 195,335 300,335 C405,335 485,390 485,460 L485,600 Z" fill="#94a3b8"/>
+  <!-- Shoulder width bump for masculine silhouette -->
+  <path d="M115,460 C105,420 90,400 75,410 L75,600 L115,600 Z" fill="#94a3b8"/>
+  <path d="M485,460 C495,420 510,400 525,410 L525,600 L485,600 Z" fill="#94a3b8"/>
+</svg>
