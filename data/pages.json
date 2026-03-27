@@ -211,7 +211,7 @@
       ],
       "accordion": [],
       "image": {
-        "src": "/doctor-male-placeholder.svg",
+        "src": "https://www.gravatar.com/avatar/a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4?d=mp&s=600",
         "webp": "",
         "alt": "Dr. Efraim Zak",
         "aria_hidden": false,
@@ -277,7 +277,7 @@
       ],
       "accordion": [],
       "image": {
-        "src": "/doctor-male-placeholder.svg",
+        "src": "https://www.gravatar.com/avatar/b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5?d=mp&s=600",
         "webp": "",
         "alt": "Dr. Scott Friedman",
         "aria_hidden": false,
@@ -343,7 +343,7 @@
       ],
       "accordion": [],
       "image": {
-        "src": "/doctor-male-placeholder.svg",
+        "src": "https://www.gravatar.com/avatar/c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6?d=mp&s=600",
         "webp": "",
         "alt": "Dr. Randy Weinstein",
         "aria_hidden": false,
